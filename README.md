@@ -1,6 +1,6 @@
 ### 👋 Hello friend!!
 
-My name is Carlos and I'm iOS Developer at Babel
+My name is Carlos and I'm iOS Developer
 
 Skilled in:
 - Swift
