@@ -6,9 +6,7 @@ Skilled in:
 - Swift
 - UIKit
 - SwiftUI
-- Async/Await  
-- CI/CD
-- Version control: Git, GitHub, GitLab, GitKraken
+- Async/Await
 
 I am currently based in Malaga, Spain 🇪🇸
 - 👀 I’m interested in Swift, SwiftUI and VisionPro/VisionOS
