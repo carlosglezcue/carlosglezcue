@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hello friend!!
 
-<!--
-**carlosglezcue/carlosglezcue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Carlos and I'm iOS Developer at Babel
 
-Here are some ideas to get you started:
+Skilled in:
+- Swift
+- UIKit
+- SwiftUI
+- Async/Await  
+- CI/CD
+- Version control: Git, GitHub, GitLab, GitKraken
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently based in Malaga, Spain 🇪🇸
+- 👀 I’m interested in Swift, SwiftUI and VisionPro/VisionOS
+- 🤝 I would like to collaborate on native iOS applications.
+- 📫 Reach me at: [email](carlos.glez.cue@gmail.com) or [LinkedIn](https://www.linkedin.com/in/carlos-gonzález-cuesta-2600511b0/)
