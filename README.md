@@ -4,8 +4,8 @@ My name is Carlos and I'm iOS Developer
 
 Skilled in:
 - Swift
-- UIKit
 - SwiftUI
+- UIKit
 - Async/Await
 
 I am currently based in Malaga, Spain 🇪🇸
